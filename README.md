@@ -6,7 +6,7 @@ Instead of crunching the numbers to calculate a hawk-dove ESS, the program calcu
 The default values for `WinPayoff`, `LosePayoff`, `InjuryPayoff`, and `WasteTimePayoff` are the arbitrary values defined in *The Selfish Gene*. 
 
 ## Usage
-To use, download+run the C# code, or access it in the web [here](https://replit.com/@REMCodes/HawkDoveCalculator#main.cs) (link to repl.it).
+To use, download, extract, and run the C# code, or access it in the web [here](https://replit.com/@REMCodes/HawkDoveCalculator#main.cs) (link to repl.it).
 
 The variables to edit are all at the very top.
 
