@@ -26,5 +26,7 @@ I will also likely make small bug fixes or optimizations, but this is a side pro
 
 ## Changelog
 4-14-22: Upload first release to GitHub.
+
 4-14-22: Add documentation.
+
 4-14-22: Create README in the main branch.
